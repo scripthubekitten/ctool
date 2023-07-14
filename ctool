@@ -12,7 +12,7 @@ local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ki
 local Notify = AkaliNotif.Notify;
 Notify({
 Description = ".gg/productions";
-Title = "Backup#6002";
+Title = "server got termed join up";
 Duration = 10;
 })
 
